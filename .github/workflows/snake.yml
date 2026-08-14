@@ -1,0 +1,36 @@
+name: Generate Contribution Flow
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Jatin0422
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2360A5FA&color_dots=%230B1120,%231E3A8A,%234F46E5,%237C3AED,%23A78BFA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2360A5FA&color_dots=%230B1120,%231E3A8A,%234F46E5,%237C3AED,%23A78BFA
+
+      - name: Publish contribution animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update contribution flow"
