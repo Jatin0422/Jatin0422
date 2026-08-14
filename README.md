@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,40:172554,70:4338CA,100:7C3AED&height=220&section=header&text=JATIN%20PRAKASH%20SADNANI&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%2FML%20Enthusiast&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:A61E4D,75:FF4D6D,100:FF8FAB&height=220&section=header&text=JATIN%20PRAKASH%20SADNANI&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%2FML%20Enthusiast&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Development;Python+%7C+JavaScript+%7C+Java;Machine+Learning+Enthusiast;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF6B8A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Development;Python+%7C+JavaScript+%7C+Java;Machine+Learning+Enthusiast;Building+Real-World+Applications" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/BACKEND-%26%20APIs-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENTHUSIAST-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-FF4D6D?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/BACKEND-%26%20APIs-A61E4D?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENTHUSIAST-FF6B8A?style=for-the-badge&logo=python&logoColor=white" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -70,7 +70,7 @@ My goal is to build software that doesn't just work, but **solves meaningful pro
 
 ### Data & Machine Learning
 
-<p align="center">
+<p>
 
 `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `XGBoost` · `CatBoost` · `Prophet`
 
@@ -114,7 +114,7 @@ A full-stack platform designed to help users make data-driven decisions about **
 <br>
 
 <a href="https://github.com/Jatin0422/Nexora">
-<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -143,7 +143,7 @@ A data-driven application focused on analyzing **e-commerce return patterns and 
 <br>
 
 <a href="https://github.com/Jatin0422?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -172,7 +172,7 @@ A machine-learning application for **house rent analysis and prediction** using 
 <br>
 
 <a href="https://github.com/Jatin0422?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -229,13 +229,13 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jatin0422&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=818CF8&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jatin0422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3&icon_color=FF4D6D&rank_icon=github" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin0422&layout=compact&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin0422&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3" height="180" />
 
 </div>
 
@@ -243,17 +243,17 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jatin0422&hide_border=true&background=0B1120&ring=6366F1&fire=60A5FA&currStreakLabel=818CF8&sideLabels=CBD5E1&dates=64748B" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Jatin0422&hide_border=true&background=0D1117&ring=FF4D6D&fire=FF6B8A&currStreakLabel=FF8FAB&sideLabels=E6EDF3&dates=8B949E" width="70%" />
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin0422&bg_color=0B1120&color=60A5FA&line=6366F1&point=A78BFA&area=true&hide_border=true&custom_title=Jatin%20Prakash%20Sadnani%20Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin0422&bg_color=0D1117&color=FF8FAB&line=FF4D6D&point=FFC2D1&area=true&area_color=A61E4D&hide_border=true&custom_title=Jatin%20Prakash%20Sadnani%20Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -288,7 +288,7 @@ width="95%">
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/4F46E5/Jatin0422" width="95%" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/FF4D6D/Jatin0422" width="95%" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -363,7 +363,7 @@ width="95%">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -378,4 +378,4 @@ width="95%">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4F46E5,75:1E3A8A,100:0B1120&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,45:FF4D6D,75:A61E4D,100:0D1117&height=120&section=footer" width="100%" />
