@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,75:4F46E5,100:7C3AED&height=230&section=header&text=JATIN%20PRAKASH%20SADNANI&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%2FML%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,40:172554,70:4338CA,100:7C3AED&height=220&section=header&text=JATIN%20PRAKASH%20SADNANI&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%2FML%20Enthusiast&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Development;Python+%7C+JavaScript+%7C+Java;Machine+Learning+Enthusiast;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Development;Python+%7C+JavaScript+%7C+Java;Machine+Learning+Enthusiast;Building+Real-World+Applications" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-2563EB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/BACKEND-%26%20APIs-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
@@ -13,15 +13,11 @@
 <br><br>
 
 <a href="https://github.com/Jatin0422">
-<img src="https://img.shields.io/badge/GitHub-Jatin0422-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Jatin0422-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -46,7 +42,7 @@ My goal is to build software that doesn't just work, but **solves meaningful pro
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -88,42 +84,34 @@ My goal is to build software that doesn't just work, but **solves meaningful pro
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-<h3>🔷 Nexora</h3>
+### 🔷 Nexora
 
-<strong>Migration Intelligence Platform</strong>
-
-<br><br>
+**Migration Intelligence Platform**
 
 A full-stack platform designed to help users make data-driven decisions about **countries, careers and migration**.
 
-<br><br>
+**Highlights**
 
-<strong>Highlights</strong>
+- 🌍 Migration trend analysis
+- 📊 Country comparison
+- 🏠 Cost-of-living analysis
+- 💼 Jobs & salary information
+- 💰 Salary prediction
+- 📈 Migration forecasting
+- 🎯 Country recommendations
 
-<ul>
-<li>Migration trend analysis</li>
-<li>Country comparison</li>
-<li>Cost-of-living analysis</li>
-<li>Jobs & salary information</li>
-<li>Salary prediction</li>
-<li>Migration forecasting</li>
-<li>Country recommendations</li>
-</ul>
+**Stack**
 
-<strong>Stack</strong>
+`React` `Django` `DRF` `Python` `Machine Learning`
 
 <br>
-
-<code>React</code> <code>Django</code> <code>DRF</code> <code>Python</code> <code>ML</code>
-
-<br><br>
 
 <a href="https://github.com/Jatin0422/Nexora">
 <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
@@ -133,36 +121,28 @@ A full-stack platform designed to help users make data-driven decisions about **
 
 <td width="33%" valign="top">
 
-<h3>📊 Retrix</h3>
+### 📊 Retrix
 
-<strong>E-Commerce Return Analytics</strong>
-
-<br><br>
+**E-Commerce Return Analytics**
 
 A data-driven application focused on analyzing **e-commerce return patterns and business performance**.
 
-<br><br>
+**Highlights**
 
-<strong>Highlights</strong>
+- 📦 Return data analysis
+- 📊 Business insights
+- 🧹 Data preprocessing
+- 📈 Return trend analysis
+- 📉 Data visualization
+- 🔎 Analytics workflow
 
-<ul>
-<li>Return data analysis</li>
-<li>Business insights</li>
-<li>Data preprocessing</li>
-<li>Return trend analysis</li>
-<li>Data visualization</li>
-<li>Analytics workflow</li>
-</ul>
+**Stack**
 
-<strong>Stack</strong>
+`Python` `Flask` `Pandas` `NumPy`
 
 <br>
 
-<code>Python</code> <code>Flask</code> <code>Pandas</code> <code>NumPy</code>
-
-<br><br>
-
-<a href="YOUR_RETRIX_REPO_URL">
+<a href="https://github.com/Jatin0422?tab=repositories">
 <img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -170,37 +150,29 @@ A data-driven application focused on analyzing **e-commerce return patterns and 
 
 <td width="33%" valign="top">
 
-<h3>🏠 RentWise</h3>
+### 🏠 RentWise
 
-<strong>House Rent Analyzer</strong>
-
-<br><br>
+**House Rent Analyzer**
 
 A machine-learning application for **house rent analysis and prediction** using factors such as location, area, BHK, furnishing and income.
 
-<br><br>
+**Highlights**
 
-<strong>Highlights</strong>
+- 🏠 House rent prediction
+- 📊 Exploratory data analysis
+- ⚙️ Feature engineering
+- 🤖 ML model comparison
+- 📐 Model evaluation
+- 🌐 Flask application
 
-<ul>
-<li>House rent prediction</li>
-<li>Exploratory data analysis</li>
-<li>Feature engineering</li>
-<li>ML model comparison</li>
-<li>Model evaluation</li>
-<li>Flask application</li>
-</ul>
+**Stack**
 
-<strong>Stack</strong>
+`Python` `Flask` `Pandas` `Scikit-learn`
 
 <br>
 
-<code>Python</code> <code>Flask</code> <code>Pandas</code> <code>Scikit-learn</code>
-
-<br><br>
-
-<a href="YOUR_RENTWISE_REPO_URL">
-<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Jatin0422?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -216,52 +188,19 @@ A machine-learning application for **house rent analysis and prediction** using 
 
 ---
 
-# 🧠 AI / ML
+## 🧠 AI / ML
 
-My machine-learning work includes **prediction, classification, regression, forecasting, data preprocessing and model evaluation**.
+My machine-learning work includes **prediction, regression, forecasting, data preprocessing, feature engineering and model evaluation**.
 
-<table>
-<tr>
-<th>Area</th>
-<th>Experience</th>
-</tr>
-
-<tr>
-<td><strong>Regression</strong></td>
-<td>Salary & house rent prediction</td>
-</tr>
-
-<tr>
-<td><strong>Classification</strong></td>
-<td>Prediction-based applications</td>
-</tr>
-
-<tr>
-<td><strong>Forecasting</strong></td>
-<td>Migration & wage forecasting</td>
-</tr>
-
-<tr>
-<td><strong>Data Analysis</strong></td>
-<td>Pandas, NumPy & visualization</td>
-</tr>
-
-<tr>
-<td><strong>Feature Engineering</strong></td>
-<td>Encoding, transformations & derived features</td>
-</tr>
-
-<tr>
-<td><strong>Model Evaluation</strong></td>
-<td>R², MAE, RMSE & cross-validation</td>
-</tr>
-
-<tr>
-<td><strong>ML Libraries</strong></td>
-<td>Scikit-learn, XGBoost, CatBoost & Prophet</td>
-</tr>
-
-</table>
+| Area | Experience |
+|---|---|
+| **Regression** | Salary & house rent prediction |
+| **Classification** | Prediction-based applications |
+| **Forecasting** | Migration & wage forecasting |
+| **Data Analysis** | Pandas, NumPy & visualization |
+| **Feature Engineering** | Encoding, transformations & derived features |
+| **Model Evaluation** | R², MAE, RMSE & cross-validation |
+| **ML Libraries** | Scikit-learn, XGBoost, CatBoost & Prophet |
 
 ### Models I've Worked With
 
@@ -269,7 +208,7 @@ My machine-learning work includes **prediction, classification, regression, fore
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### E-Commerce Business Owner
 
@@ -290,7 +229,7 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -310,7 +249,7 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-# 📊 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -320,21 +259,32 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-# 🌊 Contribution Flow
+## 🌊 Contribution Flow
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-snake.svg" width="95%" alt="GitHub Contribution Flow" />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-contribution-grid-snake.svg">
+
+<img
+src="https://raw.githubusercontent.com/Jatin0422/Jatin0422/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Flow"
+width="95%">
+
 </picture>
 
 </div>
 
 ---
 
-# 🗓️ Contribution Calendar
+## 🗓️ Contribution Calendar
 
 <div align="center">
 
@@ -344,10 +294,11 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 📚 Learning
@@ -383,12 +334,13 @@ This experience gave me practical exposure to **business operations, analytics, 
 - Intelligent applications
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 💻 Core Computer Science
+## 💻 Core Computer Science
 
 | Area | Skills |
 |---|---|
@@ -402,7 +354,7 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -414,13 +366,9 @@ This experience gave me practical exposure to **business operations, analytics, 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -430,4 +378,4 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4F46E5,75:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4F46E5,75:1E3A8A,100:0B1120&height=120&section=footer" width="100%" />
