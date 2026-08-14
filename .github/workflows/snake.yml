@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: Jatin0422
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2360A5FA&color_dots=%230B1120,%231E3A8A,%234F46E5,%237C3AED,%23A78BFA
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2360A5FA&color_dots=%230B1120,%231E3A8A,%234F46E5,%237C3AED,%23A78BFA
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF4D6D&color_dots=%230D1117,%237A183D,%23A61E4D,%23FF4D6D,%23FF8FAB
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF4D6D&color_dots=%230D1117,%237A183D,%23A61E4D,%23FF4D6D,%23FF8FAB
 
       - name: Publish contribution animation
         uses: peaceiris/actions-gh-pages@v4
