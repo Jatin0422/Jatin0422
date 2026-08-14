@@ -233,19 +233,21 @@ This experience gave me practical exposure to **business operations, analytics, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jatin0422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3&icon_color=FF4D6D&rank_icon=github" height="180" />
+<a href="https://github.com/Jatin0422">
+<img src="https://github-readme-stats.vercel.app/api?username=Jatin0422&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=false&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3&custom_title=Total%20Commits" height="180" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin0422&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3" height="180" />
+<a href="https://github.com/Jatin0422">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin0422&layout=compact&langs_count=5&hide_border=true&bg_color=0D1117&title_color=FF6B8A&text_color=E6EDF3&custom_title=Top%20Languages" height="180" />
+</a>
+
+<a href="https://github.com/Jatin0422">
+<img src="https://streak-stats.demolab.com?user=Jatin0422&hide_border=true&background=0D1117&ring=FF4D6D&fire=FF6B8A&currStreakLabel=FF6B8A&currStreakNum=FF8FAB&sideLabels=E6EDF3&sideNums=FF6B8A&dates=8B949E&hide_total_contributions=true&hide_current_streak=true" height="180" />
+</a>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jatin0422&hide_border=true&background=0D1117&ring=FF4D6D&fire=FF6B8A&currStreakLabel=FF8FAB&sideLabels=E6EDF3&dates=8B949E" width="70%" />
-
-</div>
 
 ---
 
