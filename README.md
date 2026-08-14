@@ -278,16 +278,6 @@ width="95%">
 
 ---
 
-## 🗓️ Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/FF4D6D/Jatin0422" width="95%" alt="GitHub Contribution Calendar" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <table>
