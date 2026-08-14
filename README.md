@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:A61E4D,75:FF4D6D,100:FF8FAB&height=220&section=header&text=JATIN%20PRAKASH%20SADNANI&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%2FML%20Enthusiast&descAlignY=61&descSize=16&animation=fadeIn" width="100%" />
+<img src="./assets/profile-banner.png" width="100%" alt="Jatin Prakash Sadnani - Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF6B8A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+API+Development;Python+%7C+JavaScript+%7C+Java;Machine+Learning+Enthusiast;Building+Real-World+Applications" />
 
