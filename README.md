@@ -146,7 +146,7 @@ A data-driven application focused on analyzing **e-commerce return patterns and 
 
 <br>
 
-<a href="https://github.com/Jatin0422?tab=repositories">
+<a href="https://github.com/Diyalad-2501/Retrix">
 <img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
