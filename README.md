@@ -26,19 +26,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on building **practical, user-oriented applications** across full-stack development, backend engineering, data analysis, and machine learning.
+I'm a full-stack developer  focused on building **practical, real-world applications** that combine full-stack development, backend engineering, data analysis, and machine learning.
 
-I enjoy working across the stack — from designing **backend APIs, databases and business logic** to building responsive interfaces and integrating data-driven features.
+I have a strong grip on the different components of full-stack development — from building responsive **frontend interfaces** and designing **databases** to developing **backend APIs, business logic, authentication, data processing, and application architecture**. While I enjoy working across the entire stack, I naturally lean more toward **backend development and the problem-solving side of applications**.
 
-My goal is to build software that doesn't just work, but **solves meaningful problems and provides a useful user experience**.
+I'm also particularly interested in **Machine Learning and data-driven development**. I enjoy working with data, building predictive models, exploring forecasting and recommendation systems, and integrating intelligent features into practical applications rather than treating ML as something separate from software development.
+
+What I enjoy most is taking a real problem, understanding its requirements and data, and turning it into a **complete, usable software solution** — from the frontend and backend to the database, business logic, and intelligent features.
 
 ### 🚀 Currently
 
-- 🔭 Building full-stack applications with **React, Django, Flask and Node.js**
-- 🌱 Strengthening my knowledge of **backend engineering, APIs, system design and AI/ML**
-- 🧠 Exploring **LLMs, Generative AI and intelligent applications**
-- 💡 Interested in **Software Development, Backend, Full-Stack and AI/ML**
-- 🤝 Open to **internships, collaborations and interesting projects**
+- 🔭 Building **full-stack applications** with React, Django, Flask, Node.js and Express
+- 🌱 Strengthening **backend engineering, REST APIs, system design, DSA and scalable application architecture**
+- 🤖 Deepening my knowledge of **Machine Learning, model development, forecasting and recommendation systems**
+- 🧠 Exploring **LLMs, Generative AI and AI-powered applications**
+- 💻 Improving my ability to design and build **end-to-end real-world software solutions**
+- 💼 Looking for **Software Development, Backend, Full-Stack and ML/AI internships**
+- 🤝 Open to **interesting projects, collaborations and opportunities to build meaningful software**
 
 ---
 
