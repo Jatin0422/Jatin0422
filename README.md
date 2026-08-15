@@ -291,11 +291,10 @@ width="95%">
 
 ### 📚 Learning
 
-- Large Language Models
-- Generative AI
-- AI application development
-- Advanced backend engineering
-- System design fundamentals
+- Deep-diving into applied ML — from scikit-learn model tuning to explainability tradeoffs in production
+- System design fundamentals: scaling APIs, caching, and DB design for real-world traffic
+- Django REST patterns for serving ML models behind clean, versioned APIs
+- Exploring how LLMs fit into traditional data pipelines (RAG, agentic workflows)
 
 </td>
 
@@ -303,11 +302,10 @@ width="95%">
 
 ### 🔨 Building
 
-- Full-stack applications
-- Backend APIs
-- Data-driven applications
-- AI/ML projects
-- Practical software solutions
+- Data-driven dashboards that turn raw datasets into decision-ready insights
+- ML-backed prediction tools wrapped in clean, usable interfaces
+- Analytics systems for real-world domains I understand firsthand (e-commerce, migration)
+- Tools and resources that help other students skip the "where do I even start" phase
 
 </td>
 
@@ -315,30 +313,15 @@ width="95%">
 
 ### 🔭 Exploring
 
-- LLM integration
-- Recommendation systems
-- Agentic AI
-- Production-ready ML systems
-- Intelligent applications
+- Explainability techniques for recommendation and scoring systems — feature importance, confidence intervals, and interpretable outputs
+- API design patterns for serving ML models efficiently — caching layers, async inference, and request batching
+- Deployment strategies across platforms like Render and Vercel — cost tradeoffs, cold starts, and scaling limits
+- Core system design concepts — load balancing, failure handling, and scalability patterns beyond textbook theory
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 💻 Core Computer Science
-
-| Area | Skills |
-|---|---|
-| **Programming** | Python, Java, JavaScript |
-| **Data Structures** | Arrays, Linked Lists, HashMaps, Trees, Graphs |
-| **Algorithms** | Searching, Sorting & Algorithmic Problem Solving |
-| **OOP** | Object-Oriented Programming |
-| **Databases** | SQL, DBMS & Database Design |
-| **Web Development** | REST APIs & Full-Stack Development |
-| **Machine Learning** | Data Processing, Prediction & Model Development |
 
 ---
 
