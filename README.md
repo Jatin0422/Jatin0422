@@ -336,7 +336,9 @@ width="95%">
 <a href="https://www.linkedin.com/in/jatin-sadhnani-b08696356/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="mailto:jatinsadhnani2204@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-A61E4D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 <br>
