@@ -63,7 +63,7 @@
     font-weight="700"
     fill="#FF4D6D"
 >
-    98
+    107
 </text>
 
 <text
@@ -88,7 +88,7 @@
     font-weight="700"
     fill="#FF6B8A"
 >
-    2
+    3
 </text>
 
 <text
@@ -169,7 +169,7 @@
     font-size="16"
     fill="#E6EDF3"
 >
-    Jupyter Notebook  •  JavaScript  •  Python  •  HTML  •  CSS
+    Jupyter Notebook  •  HTML  •  JavaScript  •  Python  •  Java
 </text>
 
 <line
