@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-Jatin0422-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jatin-sadhnani-b08696356/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -333,7 +333,7 @@ width="95%">
 <img src="https://img.shields.io/badge/GitHub-Jatin0422-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jatin-sadhnani-b08696356/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
